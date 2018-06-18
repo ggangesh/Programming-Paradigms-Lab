@@ -1,0 +1,7 @@
+a,the first vowel
+tejesh,my name
+apple,a fruit
+book,a medium to study
+code blocks,a software used to run various programming languages
+monitor,displaying unit of the computer
+mouse,a device used to control cursor on the screen

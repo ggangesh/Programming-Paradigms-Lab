@@ -1,0 +1,52 @@
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+((x)*(x))+(x)
+
+Derivative is :
+
+(((x)*(1))+((x)*(1)))+(1)
+
+
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+x
+
+Derivative is :
+
+1
+
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+5
+
+Derivative is :
+
+0
+
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+(x)*(x)
+
+Derivative is :
+
+((x)*(1))+((x)*(1))
+
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+((x)*(x))-((3)*(x))
+
+Derivative is :
+
+(((x)*(1))+((x)*(1)))-(((x)*(0))+((3)*(1)))
+
+

@@ -1,0 +1,31 @@
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+((x)*(x))-(16)
+
+Enter the value of epsilon : 
+0.1
+
+Derivative of expression is :
+
+(((x)*(1))+((x)*(1)))-(0)
+
+The root of the expression is x = 4.00226
+
+Enter the expression in the format : (expression 1),operator,(expression 2)
+
+Without commas and any spaces
+
+(((x)*(x))*(x))-(27)
+
+Enter the value of epsilon : 
+0.01
+
+Derivative of expression is :
+
+(((x)*(((x)*(1))+((x)*(1))))+(((x)*(x))*(1)))-(0)
+
+The root of the expression is x = 3.00127
+
+
